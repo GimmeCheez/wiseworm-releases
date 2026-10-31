@@ -30,7 +30,7 @@ You read, highlight, take notes... and eventually forget where you saved that li
 
 Your data stays **stored directly on your device**, ensuring absolute privacy. Cloud and AI features are entirely optional and only active when you choose.
 
-- **Requirements:** Android 8.0 or later.
+- **Requirements:** Android 14.0 or later.
 - **Languages:** English, Brazilian Portuguese, and Spanish.
 
 ---

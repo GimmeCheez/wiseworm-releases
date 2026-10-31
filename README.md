@@ -10,11 +10,11 @@ Instead of leaving your highlights scattered across books and files, build a lib
 
 | Library (Dark) | Library (Light) | Map (Dark) |
 | :---: | :---: | :---: |
-| ![Library Dark](library-screen-dark.jpg) | ![Library White](library-screen-white.jpg) | ![Map Dark](map-screen-dark.jpg) |
+| <img src="screenshots/library-screen-dark.jpg" width="250"/> | <img src="screenshots/library-screen-white.jpg" width="250"/> | <img src="screenshots/map-screen-dark.jpg" width="250"/> |
 
 | Map Detail (Light) | Review (Dark) | Edit Dialog (Dark) |
 | :---: | :---: | :---: |
-| ![Map Detail White](map-screen-detail-white.jpg) | ![Review Dark](review-screen-dark.jpg) | ![Edit Dialog Dark](edit-dialog-dark.jpg) |
+| <img src="screenshots/map-screen-detail-white.jpg" width="250"/> | <img src="screenshots/review-screen-dark.jpg" width="250"/> | <img src="screenshots/edit-dialog-dark.jpg" width="250"/> |
 
 **Requires Android 8.0 or later.** Available in Brazilian Portuguese, English, and Spanish.
 

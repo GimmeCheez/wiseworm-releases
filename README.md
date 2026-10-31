@@ -6,7 +6,17 @@ Wiseworm brings your book highlights and notes together in one Android app. Orga
 
 Instead of leaving your highlights scattered across books and files, build a library you can search, explore, and review.
 
-**Requires Android 14 or later.** Available in Brazilian Portuguese, English, and Spanish.
+## Screenshots
+
+| Library (Dark) | Library (Light) | Map (Dark) |
+| :---: | :---: | :---: |
+| ![Library Dark](library-screen-dark.jpg) | ![Library White](library-screen-white.jpg) | ![Map Dark](map-screen-dark.jpg) |
+
+| Map Detail (Light) | Review (Dark) | Edit Dialog (Dark) |
+| :---: | :---: | :---: |
+| ![Map Detail White](map-screen-detail-white.jpg) | ![Review Dark](review-screen-dark.jpg) | ![Edit Dialog Dark](edit-dialog-dark.jpg) |
+
+**Requires Android 8.0 or later.** Available in Brazilian Portuguese, English, and Spanish.
 
 ## What you can do
 
@@ -86,7 +96,7 @@ This connection brings notes from those documents into Wiseworm. Changes you mak
 
 Install the Android installation file (APK) provided by the project. If Android asks you to allow installation from that source, follow the instructions on your device.
 
-You'll need **Android 14 or later**. You can start with local Kindle files without connecting Google Drive or setting up Gemini.
+You'll need **Android 8.0 or later**. You can start with local Kindle files without connecting Google Drive or setting up Gemini.
 
 ### 2. Import your first book
 
